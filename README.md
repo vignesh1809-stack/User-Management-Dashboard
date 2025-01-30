@@ -65,16 +65,6 @@ npm test
 
 ---
 
-## Project Structure
-
-plaintext
-src/
-├── components/
-│   ├── UserList.js       # Displays the user list and handles pagination
-│   ├── UserForm.js       # Form component for adding/editing users
-├── App.js                # Main application component
-├── index.js              # Entry point of the application
-├── styles/               # Contains CSS stylesheets (if any)
 
 
 ---
